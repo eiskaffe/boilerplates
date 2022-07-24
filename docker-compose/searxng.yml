@@ -5,6 +5,7 @@ services:
   redis:
     container_name: redis
     image: "redis:alpine"
+    restart: unless-stopped
     command: redis-server --save "" --appendonly "no"
     networks:
       - searxng
@@ -20,6 +21,7 @@ services:
   searxng:
     container_name: searxng
     image: searxng/searxng:latest
+    restart: unless-stopped
     networks:
       - searxng
       - proxy
