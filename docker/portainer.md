@@ -23,7 +23,7 @@ Check if it is running
 docker ps
 ```
 Access the web interface by navigating to
-`http://localipaddress:9443`
+`http://localhost:9443`
 <br>*More detailed information can be found the [portainer website](https://docs.portainer.io/start/install/server/docker/linux).*
 ## Portainer with self-signed SSL
 Switch to root user
@@ -53,7 +53,7 @@ Check if it is running
 docker ps
 ```
 Access the web interface by navigating to
-`https://localipaddress:9443`
+`https://localhost:9443`
 <br>*More detailed information can be found the [portainer website](https://docs.portainer.io/v/ce-2.6/advanced/ssl).*
 
 ## Updating portainer
