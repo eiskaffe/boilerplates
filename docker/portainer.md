@@ -56,9 +56,6 @@ Access the web interface by navigating to
 `https://localipaddress:9443`
 <br>*More detailed information can be found the [portainer website](https://docs.portainer.io/v/ce-2.6/advanced/ssl).*
 
-## (Advanced) Portainer with SSL, reverse proxy and Local DNS
-Work in progress
-
 ## Updating portainer
 While you are root use the following commands to upgrade portainer
 ```terminal
