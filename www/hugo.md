@@ -7,4 +7,5 @@
  - [timeline](https://themes.gohugo.io/themes/hugo-theme-timeline/) by Sanoop Thomas
  - [shell](https://themes.gohugo.io/themes/hugo-theme-shell/) by Yukuro 
  - [hugo-theme-console](https://themes.gohugo.io/themes/hugo-theme-console/) by Marcin Mierzejewski
-<br> not in order
+ - [Bootstrap-BP-Startpage](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/) by Sebastian Pech
+ - [Hugo.386](https://themes.gohugo.io/themes/hugo.386/) by JM Fergeau
