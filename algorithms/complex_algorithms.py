@@ -34,7 +34,7 @@ class BinarySearch:
 
         return None
     
-    def binary_search(lst:list, target):
+    def binary_search(lst:list, target) -> int:
         """
         Returns the index of the given value in the list, returns none if value was not found in the list
         
